@@ -28,9 +28,6 @@ public class HttpRequester {
 
         String respString = in.readLine();
 
-        //print result
-        System.out.println(respString);
-
         return respString;
 
     }
