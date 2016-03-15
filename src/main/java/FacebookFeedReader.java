@@ -8,7 +8,7 @@ import java.util.Set;
 /**
  * Created by hadas on 3/15/16.
  */
-public class KeyWee {
+public class FacebookFeedReader {
 
     final private static Gson GSON = new Gson();
     final private static String OUTPUT_FILENAME = "OutputKeywee.csv";

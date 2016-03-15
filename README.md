@@ -4,8 +4,8 @@ mvn clean package
 
 ## Running
 
-java -cp target/KeyWee-1.0-SNAPSHOT-jar-with-dependencies.jar KeyWee
+java -cp target/facebook-feed-reader-1.0-SNAPSHOT-jar-with-dependencies.jar FacebookFeedReader
 
 === OR ===
 
-java -cp target/KeyWee-1.0-SNAPSHOT-jar-with-dependencies.jar KeyWee <token>
+java -cp target/facebook-feed-reader-1.0-SNAPSHOT-jar-with-dependencies.jar FacebookFeedReader <token>
